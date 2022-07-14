@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>仿真click</title>
+    <defs>
+        <linearGradient x1="0%" y1="37.0751291%" x2="100%" y2="37.0751291%" id="linearGradient-1">
+            <stop stop-color="#A0F0FF" offset="0%"></stop>
+            <stop stop-color="#5EA9F0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="34.5679012%" y1="0%" x2="65.4320988%" y2="97.5660957%" id="linearGradient-2">
+            <stop stop-color="#80D8EE" offset="0%"></stop>
+            <stop stop-color="#5EA9F0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="34.5679012%" y1="61.1083059%" x2="65.4320988%" y2="28.5900149%" id="linearGradient-3">
+            <stop stop-color="#62AAF1" offset="0%"></stop>
+            <stop stop-color="#A1D7FF" offset="0%"></stop>
+            <stop stop-color="#1A6CBA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="仿真click" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="矩形" fill="url(#linearGradient-1)" points="16 6 26 9 16 14 6 9"></polygon>
+        <polygon id="矩形备份" fill="url(#linearGradient-2)" points="6 9 16 14 16 27 6 20"></polygon>
+        <polygon id="矩形备份-2" fill="url(#linearGradient-3)" transform="translate(21.000000, 18.000000) scale(-1, 1) translate(-21.000000, -18.000000) " points="16 9 26 14 26 27 16 20"></polygon>
+    </g>
+</svg>
